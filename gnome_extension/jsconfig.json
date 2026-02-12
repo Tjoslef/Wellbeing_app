@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "baseUrl": ".",
+    "paths": {
+      "resource:///org/gnome/shell/*": [
+        "node_modules/@girs/gnome-shell/dist/*"
+      ],
+      "gi://*": ["node_modules/@girs/*"]
+    }
+  }
+}

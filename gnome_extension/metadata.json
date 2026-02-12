@@ -1,0 +1,6 @@
+{
+  "uuid": "wellbeing_tracker@Tjoslef",
+  "name": "Wellbeing_tracker",
+  "description": "Tracks active windows for wellbeing monitoring",
+  "shell-version": ["49", "49.1"]
+}

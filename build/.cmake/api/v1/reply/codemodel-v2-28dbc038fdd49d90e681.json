@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-21fa990e3d56174e3514.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "wellbeing-tracker",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "enable_extension::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enable_extension-Debug-073e60f377a147ce2392.json",
+					"name" : "enable_extension",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_extension::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_extension-Debug-2d4facca92240af238e0.json",
+					"name" : "install_extension",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "wellbeing-tracker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-wellbeing-tracker-Debug-8235eba510ff4ce9ef96.json",
+					"name" : "wellbeing-tracker",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/tjoslef/project/wellbeing_app/build",
+		"source" : "/home/tjoslef/project/wellbeing_app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

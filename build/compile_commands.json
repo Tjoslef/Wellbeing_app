@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/tjoslef/project/wellbeing_app/build",
+  "command": "/usr/bin/g++ -I/home/tjoslef/project/wellbeing_app/cpp_deamon -I/usr/include/sdbus-c++ -g -std=c++20 -o CMakeFiles/wellbeing-tracker.dir/cpp_deamon/main.cpp.o -c /home/tjoslef/project/wellbeing_app/cpp_deamon/main.cpp",
+  "file": "/home/tjoslef/project/wellbeing_app/cpp_deamon/main.cpp",
+  "output": "/home/tjoslef/project/wellbeing_app/build/CMakeFiles/wellbeing-tracker.dir/cpp_deamon/main.cpp.o"
+},
+{
+  "directory": "/home/tjoslef/project/wellbeing_app/build",
+  "command": "/usr/bin/g++ -I/home/tjoslef/project/wellbeing_app/cpp_deamon -I/usr/include/sdbus-c++ -g -std=c++20 -o CMakeFiles/wellbeing-tracker.dir/cpp_deamon/d_bus_com.cpp.o -c /home/tjoslef/project/wellbeing_app/cpp_deamon/d_bus_com.cpp",
+  "file": "/home/tjoslef/project/wellbeing_app/cpp_deamon/d_bus_com.cpp",
+  "output": "/home/tjoslef/project/wellbeing_app/build/CMakeFiles/wellbeing-tracker.dir/cpp_deamon/d_bus_com.cpp.o"
+},
+{
+  "directory": "/home/tjoslef/project/wellbeing_app/build",
+  "command": "/usr/bin/g++ -I/home/tjoslef/project/wellbeing_app/cpp_deamon -I/usr/include/sdbus-c++ -g -std=c++20 -o CMakeFiles/wellbeing-tracker.dir/cpp_deamon/tracker.cpp.o -c /home/tjoslef/project/wellbeing_app/cpp_deamon/tracker.cpp",
+  "file": "/home/tjoslef/project/wellbeing_app/cpp_deamon/tracker.cpp",
+  "output": "/home/tjoslef/project/wellbeing_app/build/CMakeFiles/wellbeing-tracker.dir/cpp_deamon/tracker.cpp.o"
+},
+{
+  "directory": "/home/tjoslef/project/wellbeing_app/build",
+  "command": "/usr/bin/g++ -I/home/tjoslef/project/wellbeing_app/cpp_deamon -I/usr/include/sdbus-c++ -g -std=c++20 -o CMakeFiles/wellbeing-tracker.dir/cpp_deamon/db_call.cpp.o -c /home/tjoslef/project/wellbeing_app/cpp_deamon/db_call.cpp",
+  "file": "/home/tjoslef/project/wellbeing_app/cpp_deamon/db_call.cpp",
+  "output": "/home/tjoslef/project/wellbeing_app/build/CMakeFiles/wellbeing-tracker.dir/cpp_deamon/db_call.cpp.o"
+},
+{
+  "directory": "/home/tjoslef/project/wellbeing_app/build",
+  "command": "/usr/bin/g++ -I/home/tjoslef/project/wellbeing_app/cpp_deamon -I/usr/include/sdbus-c++ -g -std=c++20 -o CMakeFiles/wellbeing-tracker.dir/cpp_deamon/help_function.cpp.o -c /home/tjoslef/project/wellbeing_app/cpp_deamon/help_function.cpp",
+  "file": "/home/tjoslef/project/wellbeing_app/cpp_deamon/help_function.cpp",
+  "output": "/home/tjoslef/project/wellbeing_app/build/CMakeFiles/wellbeing-tracker.dir/cpp_deamon/help_function.cpp.o"
+}
+]
