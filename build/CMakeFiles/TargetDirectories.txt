@@ -1,9 +1,0 @@
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/wellbeing-tracker.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/install_extension.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/enable_extension.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/edit_cache.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/rebuild_cache.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/list_install_components.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/install.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/install/local.dir
-/home/tjoslef/project/wellbeing_app/build/CMakeFiles/install/strip.dir
