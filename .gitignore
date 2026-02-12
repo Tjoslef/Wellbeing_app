@@ -1,0 +1,50 @@
+# Build directories
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+
+# Compiled executables
+wellbeing-tracker
+
+# Database files
+*.db
+data/*.db
+
+# IDE and editor files
+.vscode/
+.zed/
+.cache/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Gnome Shell extension build artifacts
+metadata.json.bak
+extension.js.bak
+
+# Clangd index files
+.clangd/
+.index/
+
+# Backup files
+*.bak
+*.backup
